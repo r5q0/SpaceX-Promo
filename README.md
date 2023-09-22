@@ -1,12 +1,3 @@
-# This was a school project.
-
-
-
-
-
-
-
-
 # index.php
 
 Our homepage is designed to be user-friendly and easy to navigate. You will find short information boxes on this page that provide an overview of our offerings, and you can click "Learn More" to access the full information.
